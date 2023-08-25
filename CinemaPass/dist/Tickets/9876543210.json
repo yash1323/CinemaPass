@@ -1,0 +1,1 @@
+{"name": "yash", "phone": "9876543210", "screen": "1", "film": "Vikram-Vedha", "seat": {"gold": {"price": 150, "matrix": {}}, "plat": {"price": 900, "matrix": {"1": "yash", "2": "yash", "3": "yash"}}}}

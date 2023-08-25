@@ -1,0 +1,12 @@
+{
+    "name":"Varisu",
+    "poster":"Poster.jpeg",
+    "screen":{
+        "2":{
+            "shows":{
+                "10:00 am":"Screens/3/1000.json",
+                "12:00 am":"Screens/3/1200.json"
+            }
+        }
+    }
+}

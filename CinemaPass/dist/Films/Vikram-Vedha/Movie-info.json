@@ -1,0 +1,12 @@
+{
+    "name":"Vikram-Vedha",
+    "poster":"Poster.jpeg",
+    "screen":{
+        "1":{
+            "shows":{
+                "10:00 am":"Screens/1/1000.json",
+                "12:00 am":"Screens/1/1200.json"
+            }
+        }
+    }
+}
